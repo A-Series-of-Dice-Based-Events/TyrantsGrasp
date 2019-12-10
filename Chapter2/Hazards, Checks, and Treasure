@@ -1,0 +1,606 @@
+A
+Checks
+DC 19 Athletics to push through wall.
+
+CREATURE
+WEEDWHIP X4
+
+—
+
+Fog Dome
+Checks
+DC 26 Knowledge Check (Arcane)
+Cloud  Fort Save DC 28
+Critical Success Enfeebled 1
+Success Enfeebled 1, Poison Damage 3d8
+Failure Enfeebled 1, Poison Damage 6d8
+Critical Failure Sunned 2, Enfeebled 1, Poison Damage 6d8
+Bewildering Mist Survival DC 28
+
+—
+
+B. 
+CREATURE
+ZOMBIE ELK X 4
+
+—
+C
+CREATURE 
+HALF ORC RANGER
+
+—
+
+C1.
+Hazard
+
+JANDO’S PIT HAZARD 5
+MECHANICAL TRAP
+Stealth DC 20 (or 0 if the fronds covering the trap have been removed)
+Description A series of tree fronds  covers a pit that’s 15 feet square and 20 feet deep.  The bottom is filled with spikes.
+Disable Thievery DC 0 to remove fronds if the trap is noticed.
+AC 19; Fort +15, Ref +9
+Fronds Hardness 0, Fronds HP 2 (BT 1); Immunities critical hits, object immunities, precision damage, piercing damage
+Pitfall [reaction] Trigger A creature walks onto the fronds. Effect The triggering creature falls in and takes falling damage
+(typically 10 bludgeoning damage). That creature can use the Grab an Edge reaction to avoid falling.
+Spear [reaction] (attack); A creature falls into the pit. Effect The trap bottom is laden with spikes which can potentially damage a falling creature making an attack against the falling creature or object.
+Ranged spear +19, Damage 4d8+10 piercing
+
+Reset Creatures can still fall into the trap, but the fronds must still be replaced.
+
+C2
+
+Creature
+YAOGUAI
+
+--
+
+D.
+Checks
+DC 22 Recall Knowledge (Arcana) or (Religion)
+
+THE TOWN OF ROSLAR’S COFFER HAZARD 9
+SPIRIT, LOCI
+Stealth DC 0 (The Loci of Roslar’s Coffer manifests to anyone approaching.)
+Description The collected experiences of the entire village of Roslar’s Coffer made up entirely of positive energy
+Disable (To perform this ritual the three fragments of the loci must be returned)  Performance, Religion, or Occult  DC 20 (trained) to recite the names of the deceased citizens of Roslar’s Coffer (1st check) and give an appropriate eulogy to ease their passage through the Boneyard to their final reward (2nd Check).
+AC 28; Fort +12, Ref +12
+Spirit Resistances , HP 36 positive healing; Immunities death effects, disease, paralyzed, poison, precision, unconscious; Resistances all damage 10 (except force, ghost touch, or negative; double resistance vs. non-magical)
+(If not Disabled)
+The Might of the Coffer [reaction] Trigger A creature attempts to cross the threshold of Roslar’s Coffer’s cemetery at any location.  This reaction is not limited to a single response per round and the spirit can manifest (in multiple locations at one time if required) and make this reaction at any point surrounding the cemetery. 
+Effect The spirit throws out a hand and buffets the creature with force.  This effect functions as the spell Telekinetic Maneuver (Shove).
+Spell Attack +25
+(If Disabled)
+The Might of the Coffer [three actions] Trigger Successfully finishing the ritual outlined to disable the loci.  
+Effect Following the ritual the loci bestows the ability to cast the spell Heroism (heightened 9th) 1/day while within the cemetery to all creatures present at the ritual.  In addition all undead creatures within the cemetery receive a penalty of -1 to all attack, damage, and saving throws.  
+
+E.
+Checks
+DC 20 Make an Impression (Diplomacy), Coerce (Intimidation), or Perform (Performance)
+DC 15 Perception
+(After Calming)
+DC 22 Recall Knowledge (Any skill except acrobatics and athletics) x 6
+DC 10 Recall Knowledge (Religion)
+
+Treasure
+Feather Token (Bird)
+
+Creatures
+LURKER IN LIGHT X 2
+--
+
+F
+Checks
+DC 20 Recall Knowledge (arcana) or (religion)
+DC 27 Recall Knowledge (trained) (nature)
+After Flower
+DC 22 Recall Knowledge (trained) (nature)
+DC 26 Recall Knowledge (nature) or (survival) (can be aided)
+Slimy Doom changed to Zombie Rot (See page 341 Bestiary)
+DC 18 Recall Knowledge (Religion)
+
+Treasure (These items might be a little powerful compared to those in the adventure but given who I’m thinking (from my own narrative)  these two people are going to be it fits.)
+Ring of the Ram
+Ring of Wizardry (type I)
+
+Creature
+CRYPT FLOWER 
+
+G
+Checks
+DC 20 Recall Knowledge (arcane or religion)
+DC 25 Perception
+(After Fight)
+DC 30 Perception (or 0 if pointed out)
+DC 15 Coerce (Intimidation)
+
+Treasure
+Emeralds x 12 (15g each/180g total)
+ 
+Creatures
+Whispering Way Cultist X 4
+
+--
+
+H
+Checks
+DC 18 or 23 Perception
+
+Creatures
+Whispering Way Cultist (as above) X 2
+Ghoul Inquisitor
+
+--
+
+I
+CREATURE
+BONE GOLEM 
+
+--
+Group should be level 6
+
+J1
+Hazard
+NEGATIVE WARD HAZARD 7
+EVOCATION NEGATIVE MAGICAL TRAP
+Stealth DC 30 (expert)
+Description An invisible rune creates an invisible, spherical magical sensor with a 10-foot radius.
+Disable Thievery DC 30 (expert) to erase the rune without triggering the sensor, or dispel magic (4th level; counteract
+DC 22) to counteract the rune
+Harm [reaction] (arcane, evocation, negative); Trigger A living creature enters the sensor area. Effect The rune blasts the area with a harm spell centered on the triggering creature’s square. This is a 4th level [three action] harm spell that deals 4d8 negative damage (DC 23 basic Will save).
+
+--
+
+J2
+Checks
+DC 15 Perception
+DC 20 Recall Knowledge (Lore: Engineering)
+
+
+CREATURES
+ANIMUS SHADE SORCERER
+SKELETON CHAMPION ARCHER
+ZOMBIE LORD MONK
+
+--
+
+J3
+Checks
+DC 22 Perception
+
+Treasure
+Ghost Touch Rune
+
+--
+
+J4
+CREATURE
+XENOPTERID SPORE ZOMBIE 
+
+--
+J6
+Treasure
+Wondrous Figurine (Jade Serpent)
+
+--
+J7
+Check
+DC 20 Recall Knowledge (Lore Engineering)
+
+CREATURES
+VAMPIRIC MIST 
+
+--
+
+J8
+Checks
+DC 28 Recall Knowledge (Society or Lore Nobles)
+
+Treasure
+Inscribed Tile
+
+--
+
+J9
+Checks
+DC 20 Recall Knowledge (Society or Religion)
+
+--
+
+J11
+Checks
+DC 20 Recall Knowledge (Lore Engineering)
+DC 20 Recall Knowledge (Lore nobles or Religion)
+
+Creatures
+GUECUBU
+
+--
+
+J12
+Treasure
+Candle of Truth
+Potion of Quickness
+
+--
+
+J13
+Treasure
+Gold Nodule Aeon Stone
+
+--
+
+J14
+Checks
+Athletics DC 16
+
+Treasure
+Steel Shield (Mithral)
+Greater Staff of Healing
+
+Hazard
+SCREAMING SARCOPHAGUS HAZARD 8
+EVOCATION SONIC MAGICAL TRAP
+Stealth DC 28 (expert)
+Description When the lid of the sarcophagus is lifted the ear splitting sound of a terrified scream fills the chamber.
+Disable Thievery DC 28 (expert) to find the faint runes traced on the lip of the sarcophagus and disrupt them without triggering the scream or dispel magic (to erase the rune without triggering the sensor, or dispel magic (3rd level; counteract DC 22) to counteract the runes
+Sound Burst (Heightened +2)l [reaction] (divine, sonic, evocation); Trigger A creature lifts the sarcophagus lid.  Effect The runes detonate a sound burst centered on the triggering creature.  
+centered on the triggering creature’s square. This is a 4th level Sound Burst spell that deals 4d10 points of damage and depending on the save the target may be deafened.  (basic Fort Save DC 25)
+
+--
+J15
+CREATURE
+VENEDAEMON 
+--
+
+J16
+Checks 
+DC 25 Perception
+DC 20 Recall Knowledge (Lore Engineering)
+
+--
+
+
+
+
+J17
+Checks
+DC 25 Perception
+
+CREATURE
+LIVING WALL 
+
+--
+
+J19
+Checks 
+Recall Knowledge DC 20 (Arcane)
+
+Creature
+ROT GRUB SWARM
+
+--
+
+J20
+Checks
+DC 22 Recall Knowledge (Religion)
+DC 20 Recall Knowledge (Lore Engineering)
+DC 40 Perception
+DC 35 Disable (Thievery)
+
+--
+(Group should be Level 7.  Standard Diff 23)
+
+K1
+Checks
+DC 35 Perception to find door from cellar.
+
+K2
+Checks
+DC 10 Recall Knowledge (Religion)
+
+Treasure
+Brooch of Shielding, Potion of Healing (Moderate), Wand of Mindlink
+
+Creatures
+Whispering Way Cultist (Area G Above)
+WIGHT SORCERER
+GRAY REAVER
+
+--
+
+K5
+Treasure 
+Rubies x 10 (7.5 g each)
+
+Hazard
+CLOUDKILL RUNE HAZARD 9
+DEATH NECROMANCY POISON MAGICAL TRAP
+Stealth DC 30 (expert)
+Description An invisible rune on an altar activates if the altar is touched.
+Disable Thievery DC 28 (expert) to erase the rune without triggering the sensor, or dispel magic (4th level; counteract
+DC 24) to counteract the rune
+Cloudkill [reaction] (arcane, death necromancy, poison); Trigger A creature touches the altar without first disabling the rune. Effect The releases a cloudkill spell centered on the triggering creature’s square. This is a 4th level Cloudkill spell that functions as obscuring mist that fills a 20 ft. radius and moves 10 feet away from the rune every round.  Each breathing creature takes 6d8 poison damage (DC 28 basic Fort save).
+
+--
+
+K6
+
+Creatures
+CRYPT THING
+--
+
+K8
+Checks
+DC 23 Perception
+
+Treasure
+Cloak of Arachnida x 1
+CLOAK OF ARACHNIDA ITEM 6+
+INVESTED MAGICAL TRANSMUTATION
+Usage worn cloak; Bulk L
+This silky black cloak is lined with thicker strands of silvery and sturdy darklands spider silk.  When the hood is raised the wearer has a +2 to all fortitude saves against poison effects.
+Activate [two-actions] envision, Interact; Frequency once per day;
+Effect You pull the cloak’s hood up and gain the benefits of spider climb for 10 minutes or until you pull the hood back down,
+whichever comes first.
+Type cloak of arachnida; Level 6; Price 230 gp
+Type greater arachnida cloak; Level 10; Price 900 gp
+The item bonus is +4, and when you activate the cloak you can spider climb (heightened to 5th) for 1 hour and cast the spell web (heightened to 4th level) 1/day.
+
+--
+
+K9
+Check
+DC 28 Perception
+
+Items
+Phylactery of Faithfulness
+Scorched Holy Symbol of Sarenrae
+Explosive Ammunition (crossbow bolts) x 5 (If used by a follower of Sarenrae these bolts have a 50% chance of not being consumed by their blast)
+Ivory Box 40g
+
+Creatures
+BODAK HALFLING PRIEST
+--
+
+K12
+
+Creatures
+Wight Sorcerer (See Above)
+
+Treasure
+Bracers of Armor, type I
+Scroll of Phantasmal Killer
+Empty Phials x 24 (2s each)
+
+--
+
+K14
+Check
+DC 23 Perception
+
+Treasure
+Scroll of Neutralize Poison
+
+--
+
+K16
+Checks
+DC 18 (28) Perception
+DC 18 (23) Recall Knowledge (Nature)
+
+--
+
+K17
+DC 33 Force Open (Athletics)
+
+Creature
+MUTANT CAVE BEAR
+
+--
+
+K18
+
+Creatures
+POLONG
+
+--
+
+L1
+Checks
+DC 32 Recall Knowledge (Arcana)
+
+Treasure?
+Festering Maw (I don’t see much about this that needs to be changed)
+
+CREATURE
+ADVANCED FESTERING SPIRIT 
+
+--
+
+Destroying the Festering Maw
+This seems like a complicated system to convert.  Further research will have to be done.  It may just require an upping of complexity, kp and its thresholds.
+
+Sophia (She/Her)Today at 1:33 PM
+I dont think you need to change too much tbh
+ 
+Sophia (She/Her)Today at 1:33 PM
+just change the DCs to be appropriate, and use skill proficiency to determine the base dice size, potentially with a class based dice modifier on top of it
+if I remember how research works correctly
+ 
+Rko-RamblerToday at 1:35 PM
+I'll give that a shot.  Thank you Sophia.
+ 
+Sophia (She/Her)Today at 1:38 PM
+ignore the old by 5 system and dont require a confirmation for a critical success
+my suggestion is to use trained as a 1d4+mod, expert as 1d6, master as 1d8 and legendary as 1d10
+if they're using an appropriate lore or use magic of the same tradition, +1dice size.
+
+
+
+--
+
+L2
+Checks
+DC 23 Perception
+
+Treasure
+Scroll of Divine Wrath (Divine)
+Scroll of Searing Light (Divine, Heightened 5th)
+
+CREATURE
+NEKOMATA 
+--
+
+L3
+Treasure
+Bag of Holding Type I
+Trail Rations x 50
+
+--
+
+L5
+Treasure
++1 Resilient Scale Mail
+Oil of Mending
+
+--
+
+L6
+Checks
+DC 21 Perception
+
+Treasure
++1 Striking Warhammer (Will likely cater this weapon to a specific character and may change the type)
+
+--
+
+L7
+Checks
+DC 18 Recall Knowledge (Lore: Lastwall, Shining Crusade, Ustalav etc)
+DC 25 Perception
+
+Treasure
+cold iron (low grade) dagger x 2
+spellbook containing their prepared spells x 2
+- Ant Haul, Chill Touch, Create Water, Daze, Detect Magic, Fear, Floating Disk, Ghost Sound, Grim Tendrils, Light, Mage Armor, Mage Hand, Message, Prestidigitation, Ray of Enfeeblement, Shield, Telekinetic Projectile, Unseen Servant,  Invisibility, Mirror Image, Spectral Hand, Touch of Idiocy, Bind Undead, Haste, Paralyze, Vampiric Touch, Confusion, Fly, Phantasmal Killer, Stoneskin
+bracers of armor type I (shark tooth charm) x 2
+Wand of Floating Disk x 2
+
+Creatures
+Note:  Given that both of these 8th level wizards can fly and cast mirror image I’ve got concerns about how insanely hard this fight might be.  Add in the fact that they have spectral hand and can just continually throw spells down at the party and it might just be too much.
+
+Advanced Skeletal Giant x 1 (Added because of lack of robe of bones.  This creature has had bind undead cast on it daily and is masquerading as an experiment laying on a large table converted to an operating platform.  The inquisitor found the bodies of an ogre  who were apparently was unlucky enough to be caught in the explosion and ensuing dome and this is the result.).
+
+CREATURES
+ADVANCED SKELETAL GIANT
+HALF ELF NECROMANCER CREATUREx2
+--
+
+L8
+Treasure
+Antitoxin x 10
+
+--
+
+L9
+
+FEAR RUNE HAZARD 8
+FEAR NECROMANCY ENCHANTMENT MAGICAL TRAP
+Stealth DC 32 (expert)
+Description An invisible rune under a woven mat
+Disable Thievery DC 32 (expert) to erase the rune without triggering the sensor, or dispel magic (5th level; counteract
+DC 24) to counteract the rune
+Cloudkill [reaction] (arcane, fear, necromancy); Trigger A creature walks over the mat  without first disabling the rune. Effect The rune releases a fear spell centered on the triggering creature’s square. This is a 5th level Cloudkill spell that lets out a horrifying screech when set off.  This may alert others within the area.  It affects 5 creatures within a 20 ft radius of the triggering effect. (DC 30 basic Will save).
+
+--
+L11
+Checks
+DC 23 Perception
+
+Treasure
++1 striking mace
++1 resilient chain shirt
+Unholy symbol of urgathoa
+50g papers
+
+Creature
+PUKWUDGIE CLERIC OF URGATHOA
+
+--
+
+L12
+Checks
+DC 28 Perception
+
+Treasure
+(Note: I decided to make this room a bit of a trove for alchemist players as I’ve done very little at this point for them)
+purple worm venom x 2
+Tanglefoot bag moderate x 3
+Frost vial x 2
+Sea touch elixir
+
+--
+
+L15
+DC 23 Recall Knowledge (Arcane)
+
+Treasure
+Fade band (on bracers of armor type I)
++1 moderate grade silver dagger
+bracers of armor type I
+greater hat of the magi (a flatcap)
+wand of soothe (heightened 3rd)
+potion of healing (greater)
+First Level Equipment of PCs
+Pouch 6.8g
+Iron key
+Signet ring
+Noble’s outfit
+
+Creatures
+Notes:  Creating Ju Ju Zombies from your player’s first level sheets.  Doing this may have to wait until you have your player’s sheets but using the gm hazard and creature creation doc I am giving a few suggestions below.  Info is given in a (high, medium, low) format.  Of course if any of these statistics were higher for your characters at level 1 then use that value.
+
+Alignment: NE
+Traits:  Add Undead Zombie
+Perception: +12, +9, +6
+Ability Scores: +4, +3, +1 (Increase str and dex by one level here.  If it is already high use +6)
+Skills: Add (Acrobatics (h), Athletics (m)); +10, +9, +6
+Armor Class: 19, 18, 16
+Saves: +12, +9, +6 
+HP: 46, 40, 34 (These values may seem low if you look at the creation docs but they are modified by the Immunities and Resistances)
+Immunities: Cold, Electricity, Magic Missiles
+Resistances Fire 5, All physical 5 (except Slashing)
+Weakness physical (magic) 5
+Strikes: +12, +10, +8 (The zombie gains a slam strike that is in line with these statistics 
+Melee slam (agile, finesse) +?, 1d8+5 bludgeoning
+Special Abilities:  Remember that these zombies will have all of your 1st level PC’s special abilities (ex: Shield Block etc.)
+Spells:  For any spellcasting character I would use a DC 20 +12, and for non focused characters I would use 17, +9.  Use this rule for special abilities as well.
+These zombies should have all of the pc’s first level equipment that they have scavenged from RC.
+
+(Changed our boy here to an undead bloodline sorcerer because witch isn’t finished yet and it was a lot of work I didn’t want to do.  With his abilities to use the juju zombies more I think this is an effective build.  Also note that I gave him a flatcap greater hat of the magi which will allow him to summon an elemental (i suggest earth) if the juju zombies go down too quickly.  Some notes about tactics include using his harm ability to both heal his juju zombies and give himself temp hp.  Remember that 5th level harm can be drawn out into a 3 action to heal all undead targets within range.  As he is a dhampir this includes him. Grasping grave to slow down enemies.)
+DHAMPIR SORCERER 
+
+--
+
+Ending
+Treasure
+2 Weeks of Trail Rations
+A barrel of fresh water
+Skins of Ale x 6
++1 striking composite longbow
++1 disrupting longsword (she had a heck of a time throwing this in the cart)
++1 resilient studded leather
+standard grade cold iron shortsword
+standard grade cold iron rapier
+Low grade silver chainmail
+Bag of holding type I
+Healing potion moderate x 5
+Potion of resistance x 2
+Potion of leaping
+Chest Feather Token
+Velvet Bag
+Wand of Heal (Heightened 3rd)
+Wand of Restoration
+Leather Bag - 310 gp
+Cart x 1
+Donkeys x 2 (named Geb and Aroden… because they’re jackasses?  Get it?)
