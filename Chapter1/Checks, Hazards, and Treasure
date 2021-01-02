@@ -1,0 +1,747 @@
+Obol Rebuild
+Resistance Negative Energy equal current HD.  .
++1 Status Bonus to all Saves v.s. Spells with the Negative sub-type.
+Character attacks with natural and melee weapons now count as silver and magic for the purposes of overcoming UNDEAD resistances.
+
+The Dead Roads
+
+A1
+Checks
+DC for Athletics (force open) check can likely remain 13.
+
+Treasure
+Added one ironshod quarterstaff, a suit of broken chainmail and a morningstar to the tombs.
+Crowbar
+Flint and Steel
+Common Lamp x 3
+Hammers x 2
+Hooded Lantern
+Pint of Oil x 8
+Dented Pewter Mug
+
+A2
+
+Checks
+DC 14 Perception Check to find pearls listed below.
+
+Treasure
+The ostovite bone chariot in this room’s arm has been grafted to a longsword.  Pearls x 3 / 20s each.
+
+Creatures
+Ostovite
+Bone Chariot Humanoid
+
+
+A3
+
+Treasure
+Wand of Create Water
+Healer’s Kit
+Minor Healing Potion x 5
+Silver Holy Symbol of Aroden
+Candles x 12
+
+A4
+
+Checks
+DC 15, 18, 25 - Society or Religion
+DC 15 - Occultism or Religion
+
+Creatures
+Ostovite (See Above)
+
+Treasure
+Shortsword (Distinctive)
+
+A5
+Hazard
+FALLING SLABS HAZARD
+Stealth DC 16 (trained)
+Description Touching the decaying shelves where the stones lay causes them to fall onto an unsuspecting target.
+Disable Thievery DC 15 (trained) on the shelves before they are interacted with.
+AC 16; Fort +10, Ref +2
+Hardness 5, HP 20 (BT 10); Immunities critical hits, object immunities, precision damage
+Tumbling Stones [reaction] Trigger Touching any of the stone baring shelves in the room causes them to fall into the adjacent squares. 
+Effect  The stone slabs deal 2d6+5 bludgeoning damage to anyone beneath or adjacent to
+the shelf when it collapses and pushes them out of its space in a random direction. A creature that succeeds at a DC 17 Reflex
+save takes no damage and rolls out of the way in a random direction. On a critical success, they can choose the direction.
+
+Treasure
+85s ring
+Scroll of Bless x 2
+
+A6
+Checks
+DC 20 Athletics to open tomb
+
+
+A7
+
+Creatures
+Ostovite (as above)
+Bone Chariot Horse
+
+Treasure
+65s bridle 
+
+
+A8
+Ostovite (as above)
+
+A9
+
+Flash Beetle (Bestiary 41)
+
+A10
+
+Creatures
+Mitflit (Bestiary 192)
+
+Animate Hair
+
+A11
+Puzzle
+Same
+
+Other Ways to Access 
+DC 21 Perception
+DC 18 Athletics (Force Open)
+DC 22 Thievery
+
+Treasure
+Half Plate Armor
+Silver Shield, Low-Grade
+
+Creatures
+Note:  During the fight the party may make a perception check versus the mitflit in A13 trying to spy on this battle.
+DC 15 Perception to notice
+Giant Cockroach
+
+--
+
+A12
+Checks
+Religion or Arcana 15 (this id’s the binding runes not the crystal itself)
+Spectre Orb
+Stealth DC -
+Description Touching the orb strikes the character with a burst of negative energy and the image of a howling tormented face..
+Disable Occultism DC 17 (trained) on the orb before it is interacted with to harmlessly dissipate the negative energy within.
+AC 13; Fort +10, Ref +4
+Hardness 5, HP 20 (BT 10); Immunities critical hits, object immunities, precision damage
+Negative Blast [reaction] Trigger Touching the orb with their hand (even gloved) causes the orb to blast dark energy into the target.
+Effect  The orb deals 2d6+5 negative energy damage to anyone touching it.  A Reflex DC 17 reduces the damage by half.  A critical success means no damage at all.
+
+Treasure
+Dagger
+6 x Darts
+Jasper Frog 19sp
+
+A13
+Treasure
+DC 12 Perception
+10 lbs of silver, ivory and gold leaf (260 sp)
+Leather Bandolier 40s
+Lesser Healing Potions x 4
+
+CREATURES
+MITFLITS (BESTIARY)
+BARPLE STONEBREAKER
+
+--
+A14
+CREATURES
+CELEDON
+
+--
+A15
+Treasure
+Silver Bastard Sword
+Athletics DC 15 to remove from Hide
+
+CREATURE
+DC 20 to Notice
+HORN CATERPILLAR
+
+--
+
+A16
+
+87s (in silver and copper)
+Scroll of Restoration x 2
+Belladonna x 3
+
+--
+
+A17
+
+Mirror 15g (8 bulk)
+
+--
+
+A18
+CREATURES
+Celedons (As Above)
+
+--
+
+PART 2
+CREATURES
+NOSOI (Bestiary)
+VANTH (If my party attacks a Vanth then RIP)
+RAGING UNFETTERED PHANTOM
+WITCHCROW
+
+--
+
+C1
+HAZARD
+Chattering Teeth
+Mechanical Trap
+Complexity Simple
+Stealth DC 18
+Description A stone in the floor has been haphazardly set to cut a thin dirt covered line that ultimately leads to mouldy bag filled with teeth hanging from the ceiling. If this line is cut or the stone depressed the bag will fall and alert tooth fairies in the following areas.
+Disable Thievery DC 12 (0 to simply avoid stepping on stone)
+AC 10, Fort +5, Ref +1
+Stone Hardness 5,  HP 20 (BT 10);  Line Hardness 1, HP 5 (BT 2);  Immunities critical hits, object immunities, precision damage
+Reset The line must be reset and the bag refilled.
+
+--
+
+C2
+Treasure
+Gold Teeth x 5 (15s Each)
+
+Creatures
+Tooth Fairy x 5
+
+--
+
+C3
+
+CREATURES
+NECROPHIDIUS
+
+
+--
+C5
+CREATURE
+STAINED GLASS ANGEL
+
+--
+C7
+SOULBOUND DOLLS (BESTIARY)
+
+Treasure
+Wand of Continuation (1st Level Spell)
+
+--
+C9
+CREATURES
+TOOTH FAIRY MONARCH
+TOOTH FAIRY 
+
+--
+
+C10
+Treasure
+Retribution Axe
+
+Trap
+Flying Weapons HAZARD 2
+MECHANICAL TRAP
+Stealth DC 20 (trained)
+Description A group of trip wires is attached to a nearby weapons rack.  Tripping the wires causes the rack to spring forward throwing weapons at multiple targets .
+Disable Thievery DC 18 (trained) on the wires or rack
+AC 18; Fort +11, Ref +3
+Hardness 8, HP 25 (BT 12); Immunities critical hits, object immunities, precision damage
+Flying Weapons [reaction] (attack); A wire is tripped or touched. Effect The rack throws a number of old weapons at the targets.
+Ranged spear +14, Damage 2d6+4 piercing to all creatures in area C10.
+A target may make a DC 18 Reflex Save to avoid some damage.
+Failure:  Full Damage
+Success:  Half Damage
+Critical Success:  No damage.
+
+--
+
+C11
+CREATURE
+ESOBOK
+
+--
+
+C12
+
+CREATURE
+TOOTH FAIRY RIPPER 
+
+
+--
+
+C13
+DC 12 Athletics Action to open
+
+--
+
+C14
+CREATURE
+MIMIC (BESTIARY)
+
+--
+
+C15
+
+Treasure
+Half Plate Armor / +1 Armor Potency Rune
+(Both Suits of Armor in this room are Half-Plate, only one is magical)
+
+CREATURE
+TOOTH FAIRY MONARCH (Above)
+ESOBOK (Above)
+
+-
+
+D1
+CREATURE
+BOILBORN
+
+--
+
+D2
+Hazard
+Wonder Years HAZARD 4
+MAGICAL TRAP
+Stealth DC 20 (Trained)
+Description Powerful warding magic tied to the doorway will age any targets within 10 feet if the wrong key is used or if the thievery check to attempt to open the door fails.
+Disable Thievery DC 22 (expert) Carefully using a dagger blade to disrupt innocuous swirls and patterns in the wood of the door ensuring that not a single sliver of the wood reaches the floor or the damage will regenerate and the trap will be triggered.
+Defenses:  Null (This door regenerates any damage. Damaging the door does not trigger the trap.)
+Effect The triggering creature and any creatures within 10 feet must attempt a DC 17 Fortitude Save
+Success The creature ages 1d4 years.
+Failure The creature ages 1d8 years
+Critical Failure:  The creature ages 1d10 years
+
+CREATURES
+BLOODSEEKER (Bestiary 42)
+
+--
+
+D3
+Treasure
+Decanter 15g
+Game 32g
+
+DC 19 Perception (Door)
+
+--
+
+D4
+Treasure
+Frost Vial (moderate) x 6
+Feather Token (Holly Bush) x 1
+
+CREATURE
+ESIPIL
+
+--
+
+D5
+Treasure
+Note; I really want to make a goblin item where the worse you use it the more effective it is.  This one is going to take some work.
+Goblin Fire Drum ITEM 3+
+EVOCATION FIRE MAGICAL
+Usage held in 2 hands; Bulk 1
+A ratty tattered hide drum typically of small size.  A goblin fire drum grants you a -1 item bonus to Performance checks while playing music with the instrument.
+Activate [two-actions] Interact; Frequency once per day; Effect
+You can play the instrument to increase the damage of all fire effects within 30 feet. Make a performance check.
+Critical Success No effect.  There is a 10 % chance that all combustible items within 30 feet ignite or explode.  All goblins within 30 feet must roll a DC 13 Will Save or be sickened 1 for 1 round.
+Success ‘Is Ok, Not Goblin Tho’ All Fire effects within 30 feet have their damage increased by 1.
+Failure ‘Goblin Song, Good!” All Fire effects within 30 feet have their damage increased by 1.
+Critical Failure ‘Goblin Rave, Go!” All Fire effects within 30 feet have their damage increased by 2.  There is a 10% chance that all combustible items within 30 feet explode.  
+The explosion chance above is cumulative for every round that a critical success/failure is rolled even if non-consecutive.  This percentage resets 1 minute after the goblin fire drum is no longer played.
+Type lesser; Level 3; Price 60 gp
+Virtuoso Handheld Musical Instruments x 4
+
+CREATURE
+YETH HOUND
+
+--
+
+D7
+Treasure
+Wine Bottle x 5 6g
+Wine Bottle x 8 1g 5s
+
+--
+D8
+Treasure
+Scythe, kukri, silver shortsword
+
+CREATURE
+NUCOL
+
+-
+D9
+Treasure
+Tablecloth 20s
+
+CREATURE
+GIANT FLEA
+
+--
+D10
+Treasure
+Glasses x 6 (20s each)
+Deck of Harrow Cards (25s)
+Gambler’s Kit (20s)
+Persona Mask (CRB)
+
+--
+D11
+Treasure (Society (Decipher Writing)) DC 16
+Scroll of Restoration
+Scroll of Flaming Sphere
+
+CREATURE
+WASP SWARM (Bestiary)
+
+--
+D12
+Treasure
+Gem 35g
+
+--
+D13
+CREATURE
+GIANT ASSASSIN BUG 
+
+--
+D14
+Treasure 
+Stamp (Chime of Opening / Activated by being rolled)
+
+CREATURE
+WIHSAAK
+
+--
+D17
+Fireball Rune Trap from CRB with some mods
+EXPLOSIVE RUNES HAZARD 5
+EVOCATION FIRE MAGICAL TRAP
+Stealth DC 22 (trained)
+Description An origami crane with a series of explosive letters written on its interior.  They explode when read in a 20 foot radius. radius.
+Disable Thievery DC 20 (trained) A small rune must be drawn carefully on the opposite side of the page without triggering the runes.
+Or  dispel magic (3rd level; counteract DC 20) to counteract the runes
+Fireball [reaction] (arcane, evocation, fire); Trigger A living creature enters the sensor area. Effect The runes detonate a fireball
+centered on the triggering creature’s square. This is a 3rdlevel fireball spell that deals 6d6 fire damage (DC 22 basic Reflex save).
+
+
+--
+D19
+Treasure
+Scroll of Fire Shield
+Scroll of Sanctified Ground
+Wand of Summon Fey (Heightened 2nd)
+Holy Symbols x 94 1s each
+Holy Symbols (Rare) x 16 25s each
+Box 90s
+14s, 78g
+
+Challenger’s Gloves  Item Level 3
+UNCOMMON, MAGICAL, ENCHANTMENT
+Usage Held in 1 Hand; Bulk L
+How Dare You! Ranged [one action]
+If you successfully hit your opponent with this thrown glove you get a +1 on strike actions against your target and they recieve a -1 to strike you for the next minute.  These bonuses end if anyone except the two creatures attacks them.  Both gloves must be worn by the same creature.
+ 
+CREATURE
+TERRIFYING PHANTOM
+
+--
+E3
+Recall Knowledge (Medicine) DC 18
+
+--
+
+E4
+Treasure
+Scroll of Magic Missile (H3)
+Scroll of Fireball
+Scroll of Command
+Contract 45 gp
+
+Recall Knowledge (Arcana) 15
+Effect
+Darkness (H6)
+
+CREATURE
+RATLING
+
+--
+
+E5
+DC 20 Will Save
+Recall Knowledge (Occultism) DC 15
+
+CREATURE
+SPIDER SWARM (replaced the scarlet spiders with a single swarm, BESTIARY).
+
+--
+
+E6
+DC 18 Perception check
+
+--
+
+E7
+Treasure
+Spellbook 38.5 g (This spellbook is called The Golden Eyed Muse.  It quickly becomes clear that the worker who owned this book had an unhealthy obsession with the curator as evidenced by his (admittedly skilled if racy) drawings of her in the margins of the text along with some far more questionable poetry)
+Cantrips shield; 1st alarm, mending, feather fall, jump; summon animal, shocking grasp, sleep; 2nd glitterdust, gust of wind; see invisibility, web, telekinetic maneuver; 3rd lightning bolt
+Silverware 30g
+
+Checks
+Shove (Athletics) DC 16
+Recall Knowledge (Lore: Machines) DC 20
+Thievery DC 20
+
+CREATURES
+WYRWOOD ALCHEMIST
+
+--
+
+E11
+Check
+DC 16 Will Saving Throw
+
+CREATURES
+WYRWOOD ROGUE
+
+Treasures
+Dice x 7 (6g each)
+
+--
+
+E12
+Check
+DC 14 Deciper Writing (Society)
+
+Hazard
+GNASHING PRESS HAZARD 4
+MECHANICAL HAUNT
+Stealth DC 23 (trained)
+Description This printing press is haunted by an unfortunate scribe  who was mauled to death by it.  If a creatures moves within the room it is located the press attempts to draw them in with possession.
+Disable Thievery DC 21 (trained) to disable the press by removing a crucial mechanical piece; DC 21 religion (trained) to intone a moving eulogy with a distinct mispronunciation both luring the spirit toward it’s eternal reward and taunting it’s mechanical nature.
+AC 21; Fort +12, Ref +8
+Hardness 11, HP 44 (BT 22); Immunities critical hits, object.  (Good attacks ignore hardness)
+immunities, precision damage; Weakness good 8
+All Work and No Play [reaction] (attack); Trigger entering the room where the press is house.  Effect Both The platen of the press begins banging loudly in a rhythmic pattern.  The nearest creature must roll a DC 18 Will Save or begin walking toward the press.  If that creature reaches the press they will place their hands in the platen and suffer damage..
+Melee platen +17 - Damage 4d8+6 bludgeoning; clumsy 1 for 1 hour
+Critical clumsy 2 (permanent until a healing spell is cast) 
+Reset If reduced to 0 hp or disabled the Gnashing Press is up and running once again the following morning.  
+Destruction  The ‘gate’ must be closed and the curator must be moved to make a speech on the behalf of the spirit.
+
+Treasure
+Wand of Vampiric Touch
+Fancy Paper x 100 (1s each)
+Vials of Ink x 6 (3 g each)
+
+--
+
+E13
+Checks 
+Perception 24
+Knowledge Check (Religion) DC 14
+
+Treasure
+Candle of Truth
+
+--
+
+E14
+Checks
+Knowledge Check (Nature) DC 14
+
+
+Treasure
+Silver Halberd
+
+--
+E15
+Checks
+Knowledge Check (Survival) DC 15
+As the ‘fruit’ is part of another mechanic I feel no need to create a hazard block for it.
+
+CREATURES
+GIANT CRAB SPIDER
+
+--
+E16
+Checks
+Escape Check (Acrobatics) Dc 14 (Functions as Lesser Tanglefoot Bag)
+
+Hazard
+BROKEN SCULPTURE HAZARD 3
+MECHANICAL TRAP
+Stealth DC 21 (trained)
+Description A series of plates (part of a sculpture) attached to tripwires which explode outward into the room.
+Disable Thievery DC 21 (trained) to carefully sever the connection between the webbing and the plates
+AC 18; Fort +12, Ref +6
+Hardness 11, HP 42 (BT 21); Immunities critical hits, object immunities, precision damage
+Flying Plates [reaction] (attack); Trigger The trip wire is pulled or
+severed. Effect The plates attached to the rod at the center of the room fly outward toward all creatures in the room.
+Melee plate +16, Damage 2d10+13 bludgeoning; no multiple attack penalty
+Reset manual.
+
+--
+E17
+
+Treasures
+Feather Token: Bird
+Feather Token: Chest
+Feather Token: Ladder
+
+CREATURE
+NIGHTMARE WEB LURKER
+
+--
+E18
+Check
+Request (Diplomacy) DC 20
+(Critical Failure) Stupified 1 for 1 Minute
+Retry
+Stupified 1 for 1 Minute
+
+--
+E19
+Check
+Knowledge Check (Society) DC 17
+
+CREATURE
+GUARDIAN SCROLL
+
+--
+E20
+Checks
+Fall of Madness DC 15 Will Save
+Critical Success Not affected
+Success Stupified 1 for 1 round
+Failure Stupified 1 for 5 minutes
+Critical Failure Stupified 1 for 1 hour
+
+Acrobatics Dc 17
+
+CREATURE
+DEGENERATE NIGHTGAUNT
+
+--
+
+E21
+
+Checks
+Will Save DC 20
+
+Treasure
+Bracers of Armor
+Goggles of Night
+Effervescent Ampoule
+Skeleton Key
+Planar Models 10g
+
+CREATURE
+NIGHTMARE ARANEA
+
+--
+E22
+Treasure
+Soul Scribe Quill  Level 4
+Uncommon, Negative, Necromancy, Magical
+Price 185 gp
+Usage One Hand; Bulk L.
+When this black and red quill, seeming filled with an endless of suspiciously red ink, is used to write out the tenants of a problem facing the user in relation to a knowledge check [any skill] that character gets a +1 to that subsequent knowledge check
+Activate [One Action]
+When used to write out the cause of death of a creature of a dying creature within 5 feet that creature is subject to the death knell spell and if they fail their save you receive the benefits whether they die or not.  
+
+HAZARD
+DREAM GATE HAZARD 5
+CONJURATION NEGATIVE MAGICAL GATE
+Stealth DC 24 (TRAINED)
+Description This large rotating gate must be shut down in a specific way or it can cause serious harm to those nearby.
+Disable Knowledge Check (Arcana) DC 22 to carefully disrupt chaotic magical energies and a thievery DC 22 (trained) to disconnect various sources and shut down the device.
+AC 22; HP 54, BT 22; Hardness 14; F +15, R+7
+Soul Rend [reaction] (arcane, necromancy, negative); Trigger A creature rotates an element of the device in a complete circle or fails an attempt to shut down the device.  Effect A pulse of negative energy spreads throughout the room affecting all present characters.
+Save DC 21 Fortitude
+
+Critical Success No effect
+Success Sickened 1
+Failure Drained 1
+Critical Failure Drained 2, Doomed 1
+
+--
+
+F2
+CREATURE
+SHABTI MONK 
+
+--
+
+F3
+Treasure
++1 striking dagger
+Cloak of elvenkind
+
+CREATURE
+GRAVEN GUARDIAN 
+
+--
+
+F4
+Treasure
+Scroll of False Life
++1 armor potency rune (as described in text for ring)
+Elemental Gem (Air)
+
+CREATURE
+WITCHCROWS (see above)
+BONEWROUGHT WILLOW 
+
+--
+
+F6
+Treasure
+Citrines x 18 (5g each)
+
+Checks
+Make an Impression (Diplomacy) or
+Recall Knowledge (Society) DC 21
+
+CREATURES
+AHMUUTH 
+GIANT RAVEN 
+
+--
+F7
+CREATURES
+SHABTI MONKS (As Above)
+
+--
+
+F8
+Checks
+Make an Impression (Diplomacy) DC 20/25
+
+CREATURE
+SHABTI SOLDIER
+
+--
+
+F9
+CREATURE
+Variant Giant Garden Ooze
+
+—
+
+F10
+Treasure
+Brooch of Shielding
+Diplomat’s Badge
+Wand of Levitate
+
+CREATURE
+CATRINA WITCH
